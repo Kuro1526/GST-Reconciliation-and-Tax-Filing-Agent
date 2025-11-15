@@ -16,3 +16,13 @@ python extracter.py --input inputs --output outputs
 
 Notes
 - This is a starting point: connectors (DB/SMB/S3), stronger parsing (ML/layout) and tests should be added next.
+
+
+
+
+
+conda activate invextract
+conda install -c conda-forge -y pytesseract pillow opencv numpy pandas openpyxl tqdm pypdf python-dateutil tzdata
+conda install -c conda-forge -y camelot-py ghostscript poppler
+pip install pypdfium2 pdfplumber tabula-py langdetect
+python -c "import pytesseract, pdfplumber, camelot, pandas, cv2; print('Packages OK')"
