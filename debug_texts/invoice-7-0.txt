@@ -1,0 +1,91 @@
+
+INVOICE
+notapino
+Ria de Goa 1
+Amadora, Lisbon, 2720-059
++351 21 474 1957
+contact@notapino.pt
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+labore et dolore magna aliqua. Leo integer malesuada nunc vel risus. Elit ut aliquam purus sit
+amet luctus. Nibh cras pulvinar mattis nunc sed blandit libero. Congue nisi vitae suscipit tellus
+mauris a diam. Iaculis eu non diam phasellus vestibulum lorem sed risus. Dictumst quisque
+sagittis purus sit amet. Neque gravida in fermentum et sollicitudin ac orci phasellus egestas.
+Tincidunt ornare massa eget egestas purus viverra. Id porta nibh venenatis cras sed felis eget.
+Porttitor rhoncus dolor purus non enim praesent elementum facilisis.
+Invoice number: NP#00183
+Date: 24.06.2020
+Due-date: 24.09.2020
+Billing Shipping
+Actoonda Actoonda
+Rua Godinho 634 Rua Godinho 634
+Matosinhos, Porto, 4450-147 Matosinhos, Porto, 4450-147
++351 22 938 0548 +351 22 938 0548
+office@actoonda.pt office@actoonda.pt
+PT285637271 PT285637271
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+labore et dolore magna aliqua. Leo integer malesuada nunc vel risus. Elit ut aliquam purus sit
+amet luctus. Nibh cras pulvinar mattis nunc sed blandit libero. Congue nisi vitae suscipit tellus
+mauris a diam. Iaculis eu non diam phasellus vestibulum lorem sed risus. Dictumst quisque
+sagittis purus sit amet. Neque gravida in fermentum et sollicitudin ac orci phasellus egestas.
+Tincidunt ornare massa eget egestas purus viverra. Id porta nibh venenatis cras sed felis eget.
+Porttitor rhoncus dolor purus non enim praesent elementum facilisis. Tristique sollicitudin nibh
+sit amet. Mauris commodo quis imperdiet massa tincidunt. Tortor consequat id porta nibh
+venenatis cras sed felis eget. Ultrices gravida dictum fusce ut placerat orci nulla pellentesque
+dignissim. Egestas sed tempus urna et pharetra pharetra massa. Fermentum et sollicitudin ac
+orci phasellus egestas tellus rutrum tellus. Ultrices dui sapien eget mi proin. Sed ullamcorper
+morbi tincidunt ornare massa eget egestas. Sit amet massa vitae tortor condimentum lacinia.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+labore et dolore magna aliqua. Leo integer malesuada nunc vel risus. Elit ut aliquam purus sit
+amet luctus. Nibh cras pulvinar mattis nunc sed blandit libero. Congue nisi vitae suscipit tellus
+mauris a diam. Iaculis eu non diam phasellus vestibulum lorem sed risus. Dictumst quisque
+sagittis purus sit amet. Neque gravida in fermentum et sollicitudin ac orci phasellus egestas.
+Tincidunt ornare massa eget egestas purus viverra. Id porta nibh venenatis cras sed felis eget.
+Porttitor rhoncus dolor purus non enim praesent elementum facilisis. Tristique sollicitudin nibh
+sit amet. Mauris commodo quis imperdiet massa tincidunt. Tortor consequat id porta nibh
+venenatis cras sed felis eget. Ultrices gravida dictum fusce ut placerat orci nulla pellentesque
+dignissim. Egestas sed tempus urna et pharetra pharetra massa. Fermentum et sollicitudin ac
+orci phasellus egestas tellus rutrum tellus. Ultrices dui sapien eget mi proin. Sed ullamcorper
+morbi tincidunt ornare massa eget egestas. Sit amet massa vitae tortor condimentum lacinia.
+# Product Amount [EUR]
+1. Skid-Steer € 1000
+822-79-9581 5 pcs. € 200
+2. Backhoe I € 1000
+598-31-5899 5 pcs. € 500
+3. Dump Truck I € 3000
+745-73-2437 2 pcs. € 1500
+4. Trencher I € 1200
+813-54-6535 4 pcs. € 300
+5. Grader € 2000
+113-98-4866 10 pcs. € 200
+6. Dump Truck II € 10000
+396-33-2044 5 pcs. € 2000
+7. Bulldozer I € 3750
+511-90-9749 5 pcs. € 750
+8. Scraper I € 1000
+307-74-6395 5 pcs. € 200
+9. Compactor I € 1000
+411-71-1752 5 pcs. € 200
+10. Scraper II € 2500
+595-54-0567 10 pcs. € 250
+11. Crawler I € 1400
+573-48-1966 4 pcs. € 350
+12. Compactor II € 600
+133-65-5977 2 pcs. € 300
+13. Crawler II € 1800
+264-31-6025 4 pcs. € 450
+14. Backhoe II € 2400
+641-82-4321 4 pcs. € 600
+15. Dragline € 3000
+280-60-7659 6 pcs. € 500
+16. Trencher II € 3000
+398-88-4914 5 pcs. € 600
+17. Backhoe III € 4000
+777-92-0504 5 pcs. € 800
+18. Bulldozer II € 10000
+118-37-9226 10 pcs. € 1000
+19. Crawler III € 2600
+462-89-9620 4 pcs. € 650
+20. Bulldozer III € 2500
+134-85-7410 2 pcs. € 1250
+21. Trencher III € 2700
+317-76-2964 3 pcs. € 900

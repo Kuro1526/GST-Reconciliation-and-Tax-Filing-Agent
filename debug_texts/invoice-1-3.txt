@@ -1,0 +1,44 @@
+
+Invoice No. 1213
+16.12.2021
+To
+La Galerie
+4 Rue Courtois
+Lille, Nord, 59000
+Ship To
+Same as recipient
+Instructions
+None
+Product Unit Price [EUR] Total [EUR]
+Glossostigma
+Qty. 3 9.90 29.70
+Bayberry
+Qty. 222 5.44 1,207.68
+Waxflower
+Qty. 34 1.67 56.78
+Carolina Geranium
+Qty. 45 4.17 187.65
+Smooth Solomon's
+Seal
+Qty. 3 4.97 14.91
+El Yunque Colorado
+Qty. 23 9.97 229.31
+Zencorporations
+Tel + 49 228 698629 Thomas-Mann-Strasse 38 zencorporations.de
+Fax + 49 228 698629 Bonn, 53111 contact@zencorporations.de
+Invoice No. 1213
+16.12.2021
+Queen Anne's Lace
+Qty. 32 6.05 193.60
+Alaskan Douglasia
+Qty. 122 4.36 531.92
+Deer Sedge
+Qty. 23 3.82 87.86
+Indian Tobacco
+Qty. 2 7.25 14.50
+Subtotal 2553.91
+Sales Tax 255.39
+Total Due 2809.30
+Due 30 days after receipt
+Thank you for your business!
+2
