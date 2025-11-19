@@ -1,8 +1,23 @@
-pandas>=1.5.0
-openpyxl>=3.0.0
-pdfplumber>=0.7.0
-pytesseract>=0.3.10
-Pillow>=9.0.0
-opencv-python>=4.5.0
-numpy>=1.21.0
-python-dateutil>=2.8.0
+# Core OCR and image processing
+pytesseract==0.3.13
+Pillow==10.4.0
+opencv-python==4.10.0.84
+numpy==2.1.2
+
+# PDF handling
+pdfplumber==0.11.4
+PyPDF2==3.0.1
+
+# Data handling and output
+pandas==2.2.3
+openpyxl==3.1.5
+
+# Progress bar
+tqdm==4.66.5
+
+# Optional (recommended) table extractors for vector PDFs
+camelot-py[cv]==0.11.0
+tabula-py==2.9.3
+
+# Optional (for language detection fallback)
+langdetect==1.0.9

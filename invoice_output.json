@@ -1,0 +1,2168 @@
+{
+  "items": [
+    {
+      "invoice_number": "_1213",
+      "description": "Glossostigma",
+      "qty": 3.0,
+      "rate": 9.9,
+      "amount": 29.7
+    },
+    {
+      "invoice_number": "_1213",
+      "description": "Bayberry",
+      "qty": 222.0,
+      "rate": 5.44,
+      "amount": 1207.68
+    },
+    {
+      "invoice_number": "_1213",
+      "description": "Waxflower",
+      "qty": 34.0,
+      "rate": 1.67,
+      "amount": 56.78
+    },
+    {
+      "invoice_number": "_1213",
+      "description": "Carolina Geranium",
+      "qty": 45.0,
+      "rate": 4.17,
+      "amount": 187.65
+    },
+    {
+      "invoice_number": "_1213",
+      "description": "Smooth Solomon's",
+      "qty": 3.0,
+      "rate": 4.97,
+      "amount": 14.91
+    },
+    {
+      "invoice_number": "_1213",
+      "description": "El Yunque Colorado",
+      "qty": 23.0,
+      "rate": 9.97,
+      "amount": 229.31
+    },
+    {
+      "invoice_number": "_1213",
+      "description": "Alaskan Douglasia",
+      "qty": 122.0,
+      "rate": 4.36,
+      "amount": 531.92
+    },
+    {
+      "invoice_number": "_1213",
+      "description": "Deer Sedge",
+      "qty": 23.0,
+      "rate": 3.82,
+      "amount": 87.86
+    },
+    {
+      "invoice_number": "_1213",
+      "description": "Indian Tobacco",
+      "qty": 2.0,
+      "rate": 7.25,
+      "amount": 14.5
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "10 | Dextromethorphan polistirex",
+      "qty": 10.0,
+      "rate": 12.45,
+      "amount": 124.5
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "25 | Venlafaxine Hydrochloride",
+      "qty": 25.0,
+      "rate": 16.0,
+      "amount": 400.0
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "25 | Metoclopramide Hydrochloride (BPXPO-00537)",
+      "qty": 25.0,
+      "rate": 9.99,
+      "amount": 249.75
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "10 | Avobenzone, octinoxate (BPXPO-00538)",
+      "qty": 10.0,
+      "rate": 4.45,
+      "amount": 44.5
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "10 | Verapamil hydrochloride",
+      "qty": 10.0,
+      "rate": 7.89,
+      "amount": 78.9
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "15 | Tiagabine hydrochloride",
+      "qty": 15.0,
+      "rate": 10.25,
+      "amount": 153.75
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "10 | Ziprasidone hydrochloride (BPXPO-00537)",
+      "qty": 10.0,
+      "rate": 34.99,
+      "amount": 349.9
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "10 | Risperidone",
+      "qty": 10.0,
+      "rate": 34.99,
+      "amount": 349.9
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "10 | Metoprolol succinate",
+      "qty": 10.0,
+      "rate": 34.99,
+      "amount": 349.9
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "10 | Acetaminophen",
+      "qty": 10.0,
+      "rate": 34.99,
+      "amount": 349.9
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "15 | Sorafenib",
+      "qty": 15.0,
+      "rate": 16.0,
+      "amount": 240.0
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "15 | Telmisartan",
+      "qty": 15.0,
+      "rate": 9.99,
+      "amount": 149.85
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "15 | Famotidine",
+      "qty": 15.0,
+      "rate": 4.45,
+      "amount": 66.75
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "15 | Methylphenidate Hydrochloride",
+      "qty": 15.0,
+      "rate": 7.89,
+      "amount": 118.35
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "100 | Ibuprofen (BPXPO-00538) | 0.99 | 99.00",
+      "qty": 100.0,
+      "rate": 0.99,
+      "amount": 99.0
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "15 | Metformin Hydrochloride (BPXPO-00538)",
+      "qty": 15.0,
+      "rate": 2.15,
+      "amount": 32.25
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "15 | Avobenzone, Octisalate and Octocrylene",
+      "qty": 15.0,
+      "rate": 16.99,
+      "amount": 254.85
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "10 | Carisoprodol",
+      "qty": 10.0,
+      "rate": 34.99,
+      "amount": 349.9
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "10 | Losartan Potassium",
+      "qty": 10.0,
+      "rate": 34.99,
+      "amount": 349.9
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "10 | Pentazocine Hydrochloride and Naloxone Hydrochloride",
+      "qty": 10.0,
+      "rate": 34.99,
+      "amount": 349.9
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "25 | Omeprazole",
+      "qty": 25.0,
+      "rate": 9.99,
+      "amount": 249.75
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "25 | Losartan Potassium",
+      "qty": 25.0,
+      "rate": 4.45,
+      "amount": 111.25
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "10 | Saline",
+      "qty": 10.0,
+      "rate": 7.89,
+      "amount": 78.9
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "25 | Titanium dioxide",
+      "qty": 25.0,
+      "rate": 10.25,
+      "amount": 256.25
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "25 | Bicalutamide (BPXPO-00538)",
+      "qty": 25.0,
+      "rate": 2.15,
+      "amount": 53.75
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "15 | Ampicillin sodium",
+      "qty": 15.0,
+      "rate": 16.99,
+      "amount": 254.85
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "15 | Octinoxate, Titanium Dioxide, Octisalate",
+      "qty": 15.0,
+      "rate": 12.45,
+      "amount": 186.75
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "25 | Cavia porcellus hair and cavia porcellus skin",
+      "qty": 25.0,
+      "rate": 12.45,
+      "amount": 311.25
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "5964.50",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 5964.5
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "596.45",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 596.45
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "50.00",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 50.0
+    },
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "description": "6610.95",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 6610.95
+    },
+    {
+      "invoice_number": "INV_invoice-2-1",
+      "description": "27.08.2019 | PO-001522 | 27.09.2019",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 2019.0
+    },
+    {
+      "invoice_number": "INV_invoice-2-1",
+      "description": "| 1 |  |  | 10-700 - Exterior Protection (10) |  |  | 40.29 |  |  | 402.9 |",
+      "qty": 1.0,
+      "rate": 40.29,
+      "amount": 402.9
+    },
+    {
+      "invoice_number": "INV_invoice-2-1",
+      "description": "| 2 |  |  | 1-515 - Temporary Lighting (29) |  |  | 93.55 |  |  | 2712.95 |",
+      "qty": 2.0,
+      "rate": 93.55,
+      "amount": 2712.95
+    },
+    {
+      "invoice_number": "INV_invoice-2-1",
+      "description": "| 3 |  |  | 11-060 - Theater and Stage Equipment (17) |  |  | 78.83 |  |  | 1340.11 |",
+      "qty": 3.0,
+      "rate": 78.83,
+      "amount": 1340.11
+    },
+    {
+      "invoice_number": "INV_invoice-2-1",
+      "description": "| 4 |  |  | 1-600 - Product Requirements (Scope of Work) (20) |  |  | 13.72 |  |  | 274.4 |",
+      "qty": 4.0,
+      "rate": 13.72,
+      "amount": 274.4
+    },
+    {
+      "invoice_number": "INV_invoice-2-1",
+      "description": "| 5 |  |  | 12-050 - Fabrics (23) |  |  | 94.48 |  |  | 2173.04 |",
+      "qty": 5.0,
+      "rate": 94.48,
+      "amount": 2173.04
+    },
+    {
+      "invoice_number": "INV_invoice-2-1",
+      "description": "| 6 |  |  | 2-823 - PVC Fences and Gates (27) |  |  | 23.76 |  |  | 641.52 |",
+      "qty": 6.0,
+      "rate": 23.76,
+      "amount": 641.52
+    },
+    {
+      "invoice_number": "INV_invoice-2-1",
+      "description": "| 7 |  |  | 6-400 - Architectural Woodwork (26) |  |  | 8.86 |  |  | 230.36 |",
+      "qty": 7.0,
+      "rate": 8.86,
+      "amount": 230.36
+    },
+    {
+      "invoice_number": "INV_invoice-2-1",
+      "description": "| 8 |  |  | 2-820 - Fences and Gates (15) |  |  | 99.91 |  |  | 1498.65 |",
+      "qty": 8.0,
+      "rate": 99.91,
+      "amount": 1498.65
+    },
+    {
+      "invoice_number": "INV_invoice-2-1",
+      "description": "| 9 |  |  | 9-700 - Wall Finishes (1) |  |  | 27.31 |  |  | 27.31 |",
+      "qty": 9.0,
+      "rate": 27.31,
+      "amount": 27.31
+    },
+    {
+      "invoice_number": "INV_invoice-2-1",
+      "description": "| 10 |  |  | 2-795 - Porous Paving (30) |  |  | 36.44 |  |  | 1093.2 |",
+      "qty": 10.0,
+      "rate": 36.44,
+      "amount": 1093.2
+    },
+    {
+      "invoice_number": "INV_invoice-2-1",
+      "description": "| 11 |  |  | 11 - Equipment (9) |  |  | 50.34 |  |  | 453.06 |",
+      "qty": 11.0,
+      "rate": 50.34,
+      "amount": 453.06
+    },
+    {
+      "invoice_number": "INV_invoice-2-1",
+      "description": "| 12 |  |  | 5-050 - Basic Metal Materials and Methods (16) |  |  | 94.24 |  |  | 1507.84 |",
+      "qty": 12.0,
+      "rate": 94.24,
+      "amount": 1507.84
+    },
+    {
+      "invoice_number": "INV_invoice-2-1",
+      "description": "| 13 |  |  | 15-600 - Refrigeration Equipment (29) |  |  | 96.99 |  |  | 2812.71 |",
+      "qty": 13.0,
+      "rate": 96.99,
+      "amount": 2812.71
+    },
+    {
+      "invoice_number": "INV_invoice-2-1",
+      "description": "| 14 |  |  | 10-800 - Toilet, Bath, and Laundry Specialties (23) |  |  | 2.75 |  |  | 63.25 |",
+      "qty": 14.0,
+      "rate": 2.75,
+      "amount": 63.25
+    },
+    {
+      "invoice_number": "INV_invoice-2-1",
+      "description": "| 15 |  |  | 13-200 - Storage Tanks (25) |  |  | 99.25 |  |  | 2481.25 |",
+      "qty": 15.0,
+      "rate": 99.25,
+      "amount": 2481.25
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "123100401 | 12345 | 01.02.2024 - 29.02.2024 | 1. März 2024",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 2024.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "Basic Fee wmView | 130,00 € | 1 | 130,00 €",
+      "qty": 13000.0,
+      "rate": 1.0,
+      "amount": 13000.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "Basis fee for additional user accounts | 10,00 € | 0 | 0,00 €",
+      "qty": 1000.0,
+      "rate": 0.0,
+      "amount": 0.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "Basic Fee wmPos | 50,00 € | 0 | 0,00 €",
+      "qty": 5000.0,
+      "rate": 0.0,
+      "amount": 0.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "Basic Fee wmGuide | 1.000,00 € | 0 | 0,00 €",
+      "qty": 1.0,
+      "rate": 0.0,
+      "amount": 0.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "Change of user accounts | 10,00 € | 0 | 0,00 €",
+      "qty": 1000.0,
+      "rate": 0.0,
+      "amount": 0.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "Transaction Fee T1 | 0,58 € | 14 | 8,12 €",
+      "qty": 58.0,
+      "rate": 14.0,
+      "amount": 812.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "Transaction Fee T2 | 0,70 € | 0 | 0,00 €",
+      "qty": 70.0,
+      "rate": 0.0,
+      "amount": 0.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "Transaction Fee T3 | 1,50 € | 162 | 243,00 €",
+      "qty": 150.0,
+      "rate": 162.0,
+      "amount": 24300.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "Transaction Fee T4 | 0,50 € | 0 | 0,00 €",
+      "qty": 50.0,
+      "rate": 0.0,
+      "amount": 0.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "Transaction Fee T5 | 0,80 € | 0 | 0,00 €",
+      "qty": 80.0,
+      "rate": 0.0,
+      "amount": 0.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "Transaction Fee T6 | 1,80 € | 0 | 0,00 €",
+      "qty": 180.0,
+      "rate": 0.0,
+      "amount": 0.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "Transaction Fee G1 | 0,30 € | 0 | 0,00 €",
+      "qty": 30.0,
+      "rate": 0.0,
+      "amount": 0.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "Transaction Fee G2 | 0,30 € | 0 | 0,00 €",
+      "qty": 30.0,
+      "rate": 0.0,
+      "amount": 0.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "Transaction Fee G3 | 0,40 € | 0 | 0,00 €",
+      "qty": 40.0,
+      "rate": 0.0,
+      "amount": 0.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "Transaction Fee G4 | 0,40 € | 0 | 0,00 €",
+      "qty": 40.0,
+      "rate": 0.0,
+      "amount": 0.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "Transaction Fee G5 | 0,30 € | 0 | 0,00 €",
+      "qty": 30.0,
+      "rate": 0.0,
+      "amount": 0.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "Transaction Fee G6 | 0,30 € | 0 | 0,00 €",
+      "qty": 30.0,
+      "rate": 0.0,
+      "amount": 0.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "Amount in Euro: | 0,58 | 0,70 | 1,50 | 0,50 | 0,80 | 1,80 | 0,30 | 0,30 | 0,40 | 0,40 | 0,30 | 0,30",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 30.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "user-account-2 | 4 | 0 | 63 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 96,82 €",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 9682.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "T1: | T2: | T3: | T4: | T5: | T6:",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 6.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "AZR/31/27439",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 27439.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "CCL/3715",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 3715.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "CRS/28432",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 28432.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "Cs/52113",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 52113.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "GS 32090",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 32090.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "Kpi/22695",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 22695.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "PG 7772",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 7772.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "Rjn/11138",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 11138.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "SF-M 596/99-08",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 8.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "Ttrb/17885",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 17885.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "WPN:24791",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 24791.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "Wwt/15658",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 15658.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "0 | 0 | 12 | 0 | 0 | 0 | 18,00 €",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 1800.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "0 | 0 | 4 | 0 | 0 | 0 | 6,00 €",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 600.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "5 | 0 | 36 | 0 | 0 | 0 | 56,90 €",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 5690.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "0 | 0 | 19 | 0 | 0 | 0 | 28,50 €",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 2850.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "1 | 0 | 7 | 0 | 0 | 0 | 11,08 €",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 1108.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "2 | 0 | 6 | 0 | 0 | 0 | 10,16 €",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 1016.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "0 | 0 | 11 | 0 | 0 | 0 | 16,50 €",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 1650.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "0 | 0 | 15 | 0 | 0 | 0 | 22,50 €",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 2250.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "0 | 0 | 5 | 0 | 0 | 0 | 7,50 €",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 750.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "1 | 0 | 23 | 0 | 0 | 0 | 35,08 €",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 3508.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "1 | 0 | 4 | 0 | 0 | 0 | 6,58 €",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 658.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "0 | 0 | 11 | 0 | 0 | 0 | 16,50 €",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 1650.0
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "description": "0,58 | 0,70 | 1,50 | 0,50 | 0,80 | 1,80",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 180.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "1. Skid-Steer € 1000",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 1000.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "822-79-9581 5 pcs. € 200",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 200.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "2. Backhoe I € 1000",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 1000.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "598-31-5899 5 pcs. € 500",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 500.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "3. Dump Truck I € 3000",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 3000.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "745-73-2437 2 pcs. € 1500",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 1500.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "4. Trencher I € 1200",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 1200.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "813-54-6535 4 pcs. € 300",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 300.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "5. Grader € 2000",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 2000.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "113-98-4866 10 pcs. € 200",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 200.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "6. Dump Truck II € 10000",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 10000.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "396-33-2044 5 pcs. € 2000",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 2000.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "7. Bulldozer I € 3750",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 3750.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "511-90-9749 5 pcs. € 750",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 750.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "8. Scraper I € 1000",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 1000.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "307-74-6395 5 pcs. € 200",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 200.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "9. Compactor I € 1000",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 1000.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "411-71-1752 5 pcs. € 200",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 200.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "10. Scraper II € 2500",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 2500.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "595-54-0567 10 pcs. € 250",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 250.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "11. Crawler I € 1400",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 1400.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "573-48-1966 4 pcs. € 350",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 350.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "12. Compactor II € 600",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 600.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "133-65-5977 2 pcs. € 300",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 300.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "13. Crawler II € 1800",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 1800.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "264-31-6025 4 pcs. € 450",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 450.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "14. Backhoe II € 2400",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 2400.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "641-82-4321 4 pcs. € 600",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 600.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "15. Dragline € 3000",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 3000.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "280-60-7659 6 pcs. € 500",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 500.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "16. Trencher II € 3000",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 3000.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "398-88-4914 5 pcs. € 600",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 600.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "17. Backhoe III € 4000",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 4000.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "777-92-0504 5 pcs. € 800",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 800.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "18. Bulldozer II € 10000",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 10000.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "118-37-9226 10 pcs. € 1000",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 1000.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "19. Crawler III € 2600",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 2600.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "462-89-9620 4 pcs. € 650",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 650.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "20. Bulldozer III € 2500",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 2500.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "134-85-7410 2 pcs. € 1250",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 1250.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "21. Trencher III € 2700",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 2700.0
+    },
+    {
+      "invoice_number": "np#00183",
+      "description": "317-76-2964 3 pcs. € 900",
+      "qty": NaN,
+      "rate": NaN,
+      "amount": 900.0
+    }
+  ],
+  "totals": [
+    {
+      "invoice_number": "_1213",
+      "type": "tax",
+      "raw": "Sales Tax | 255.39",
+      "parsed_amount": 255.39
+    }
+  ],
+  "verification": [
+    {
+      "invoice_number": "INV_invoice-0-4",
+      "items_sum": 19186.399999999998,
+      "parsed_subtotal": 19186.399999999998,
+      "parsed_tax": NaN,
+      "parsed_total": 19186.399999999998,
+      "difference_items_vs_subtotal": 0.0,
+      "mismatch_flag": false
+    },
+    {
+      "invoice_number": "INV_invoice-2-1",
+      "items_sum": 19731.55,
+      "parsed_subtotal": 19731.55,
+      "parsed_tax": NaN,
+      "parsed_total": 19731.55,
+      "difference_items_vs_subtotal": 0.0,
+      "mismatch_flag": false
+    },
+    {
+      "invoice_number": "_1213",
+      "items_sum": 2360.3100000000004,
+      "parsed_subtotal": 2360.3100000000004,
+      "parsed_tax": 255.39,
+      "parsed_total": 2615.7000000000003,
+      "difference_items_vs_subtotal": 0.0,
+      "mismatch_flag": false
+    },
+    {
+      "invoice_number": "customer_no_invoice_period_date",
+      "items_sum": 317300.0,
+      "parsed_subtotal": 317300.0,
+      "parsed_tax": NaN,
+      "parsed_total": 317300.0,
+      "difference_items_vs_subtotal": 0.0,
+      "mismatch_flag": false
+    },
+    {
+      "invoice_number": "np#00183",
+      "items_sum": 73950.0,
+      "parsed_subtotal": 73950.0,
+      "parsed_tax": NaN,
+      "parsed_total": 73950.0,
+      "difference_items_vs_subtotal": 0.0,
+      "mismatch_flag": false
+    }
+  ],
+  "by_invoice": {
+    "INV_invoice-0-4": {
+      "items": [
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "10 | Dextromethorphan polistirex",
+          "qty": 10.0,
+          "rate": 12.45,
+          "amount": 124.5
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "25 | Venlafaxine Hydrochloride",
+          "qty": 25.0,
+          "rate": 16.0,
+          "amount": 400.0
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "25 | Metoclopramide Hydrochloride (BPXPO-00537)",
+          "qty": 25.0,
+          "rate": 9.99,
+          "amount": 249.75
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "10 | Avobenzone, octinoxate (BPXPO-00538)",
+          "qty": 10.0,
+          "rate": 4.45,
+          "amount": 44.5
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "10 | Verapamil hydrochloride",
+          "qty": 10.0,
+          "rate": 7.89,
+          "amount": 78.9
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "15 | Tiagabine hydrochloride",
+          "qty": 15.0,
+          "rate": 10.25,
+          "amount": 153.75
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "10 | Ziprasidone hydrochloride (BPXPO-00537)",
+          "qty": 10.0,
+          "rate": 34.99,
+          "amount": 349.9
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "10 | Risperidone",
+          "qty": 10.0,
+          "rate": 34.99,
+          "amount": 349.9
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "10 | Metoprolol succinate",
+          "qty": 10.0,
+          "rate": 34.99,
+          "amount": 349.9
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "10 | Acetaminophen",
+          "qty": 10.0,
+          "rate": 34.99,
+          "amount": 349.9
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "15 | Sorafenib",
+          "qty": 15.0,
+          "rate": 16.0,
+          "amount": 240.0
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "15 | Telmisartan",
+          "qty": 15.0,
+          "rate": 9.99,
+          "amount": 149.85
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "15 | Famotidine",
+          "qty": 15.0,
+          "rate": 4.45,
+          "amount": 66.75
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "15 | Methylphenidate Hydrochloride",
+          "qty": 15.0,
+          "rate": 7.89,
+          "amount": 118.35
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "100 | Ibuprofen (BPXPO-00538) | 0.99 | 99.00",
+          "qty": 100.0,
+          "rate": 0.99,
+          "amount": 99.0
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "15 | Metformin Hydrochloride (BPXPO-00538)",
+          "qty": 15.0,
+          "rate": 2.15,
+          "amount": 32.25
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "15 | Avobenzone, Octisalate and Octocrylene",
+          "qty": 15.0,
+          "rate": 16.99,
+          "amount": 254.85
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "10 | Carisoprodol",
+          "qty": 10.0,
+          "rate": 34.99,
+          "amount": 349.9
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "10 | Losartan Potassium",
+          "qty": 10.0,
+          "rate": 34.99,
+          "amount": 349.9
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "10 | Pentazocine Hydrochloride and Naloxone Hydrochloride",
+          "qty": 10.0,
+          "rate": 34.99,
+          "amount": 349.9
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "25 | Omeprazole",
+          "qty": 25.0,
+          "rate": 9.99,
+          "amount": 249.75
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "25 | Losartan Potassium",
+          "qty": 25.0,
+          "rate": 4.45,
+          "amount": 111.25
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "10 | Saline",
+          "qty": 10.0,
+          "rate": 7.89,
+          "amount": 78.9
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "25 | Titanium dioxide",
+          "qty": 25.0,
+          "rate": 10.25,
+          "amount": 256.25
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "25 | Bicalutamide (BPXPO-00538)",
+          "qty": 25.0,
+          "rate": 2.15,
+          "amount": 53.75
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "15 | Ampicillin sodium",
+          "qty": 15.0,
+          "rate": 16.99,
+          "amount": 254.85
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "15 | Octinoxate, Titanium Dioxide, Octisalate",
+          "qty": 15.0,
+          "rate": 12.45,
+          "amount": 186.75
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "25 | Cavia porcellus hair and cavia porcellus skin",
+          "qty": 25.0,
+          "rate": 12.45,
+          "amount": 311.25
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "5964.50",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 5964.5
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "596.45",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 596.45
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "50.00",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 50.0
+        },
+        {
+          "invoice_number": "INV_invoice-0-4",
+          "description": "6610.95",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 6610.95
+        }
+      ],
+      "totals": [],
+      "verification": {
+        "invoice_number": "INV_invoice-0-4",
+        "items_sum": 19186.399999999998,
+        "parsed_subtotal": 19186.399999999998,
+        "parsed_tax": NaN,
+        "parsed_total": 19186.399999999998,
+        "difference_items_vs_subtotal": 0.0,
+        "mismatch_flag": false
+      }
+    },
+    "INV_invoice-2-1": {
+      "items": [
+        {
+          "invoice_number": "INV_invoice-2-1",
+          "description": "27.08.2019 | PO-001522 | 27.09.2019",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 2019.0
+        },
+        {
+          "invoice_number": "INV_invoice-2-1",
+          "description": "| 1 |  |  | 10-700 - Exterior Protection (10) |  |  | 40.29 |  |  | 402.9 |",
+          "qty": 1.0,
+          "rate": 40.29,
+          "amount": 402.9
+        },
+        {
+          "invoice_number": "INV_invoice-2-1",
+          "description": "| 2 |  |  | 1-515 - Temporary Lighting (29) |  |  | 93.55 |  |  | 2712.95 |",
+          "qty": 2.0,
+          "rate": 93.55,
+          "amount": 2712.95
+        },
+        {
+          "invoice_number": "INV_invoice-2-1",
+          "description": "| 3 |  |  | 11-060 - Theater and Stage Equipment (17) |  |  | 78.83 |  |  | 1340.11 |",
+          "qty": 3.0,
+          "rate": 78.83,
+          "amount": 1340.11
+        },
+        {
+          "invoice_number": "INV_invoice-2-1",
+          "description": "| 4 |  |  | 1-600 - Product Requirements (Scope of Work) (20) |  |  | 13.72 |  |  | 274.4 |",
+          "qty": 4.0,
+          "rate": 13.72,
+          "amount": 274.4
+        },
+        {
+          "invoice_number": "INV_invoice-2-1",
+          "description": "| 5 |  |  | 12-050 - Fabrics (23) |  |  | 94.48 |  |  | 2173.04 |",
+          "qty": 5.0,
+          "rate": 94.48,
+          "amount": 2173.04
+        },
+        {
+          "invoice_number": "INV_invoice-2-1",
+          "description": "| 6 |  |  | 2-823 - PVC Fences and Gates (27) |  |  | 23.76 |  |  | 641.52 |",
+          "qty": 6.0,
+          "rate": 23.76,
+          "amount": 641.52
+        },
+        {
+          "invoice_number": "INV_invoice-2-1",
+          "description": "| 7 |  |  | 6-400 - Architectural Woodwork (26) |  |  | 8.86 |  |  | 230.36 |",
+          "qty": 7.0,
+          "rate": 8.86,
+          "amount": 230.36
+        },
+        {
+          "invoice_number": "INV_invoice-2-1",
+          "description": "| 8 |  |  | 2-820 - Fences and Gates (15) |  |  | 99.91 |  |  | 1498.65 |",
+          "qty": 8.0,
+          "rate": 99.91,
+          "amount": 1498.65
+        },
+        {
+          "invoice_number": "INV_invoice-2-1",
+          "description": "| 9 |  |  | 9-700 - Wall Finishes (1) |  |  | 27.31 |  |  | 27.31 |",
+          "qty": 9.0,
+          "rate": 27.31,
+          "amount": 27.31
+        },
+        {
+          "invoice_number": "INV_invoice-2-1",
+          "description": "| 10 |  |  | 2-795 - Porous Paving (30) |  |  | 36.44 |  |  | 1093.2 |",
+          "qty": 10.0,
+          "rate": 36.44,
+          "amount": 1093.2
+        },
+        {
+          "invoice_number": "INV_invoice-2-1",
+          "description": "| 11 |  |  | 11 - Equipment (9) |  |  | 50.34 |  |  | 453.06 |",
+          "qty": 11.0,
+          "rate": 50.34,
+          "amount": 453.06
+        },
+        {
+          "invoice_number": "INV_invoice-2-1",
+          "description": "| 12 |  |  | 5-050 - Basic Metal Materials and Methods (16) |  |  | 94.24 |  |  | 1507.84 |",
+          "qty": 12.0,
+          "rate": 94.24,
+          "amount": 1507.84
+        },
+        {
+          "invoice_number": "INV_invoice-2-1",
+          "description": "| 13 |  |  | 15-600 - Refrigeration Equipment (29) |  |  | 96.99 |  |  | 2812.71 |",
+          "qty": 13.0,
+          "rate": 96.99,
+          "amount": 2812.71
+        },
+        {
+          "invoice_number": "INV_invoice-2-1",
+          "description": "| 14 |  |  | 10-800 - Toilet, Bath, and Laundry Specialties (23) |  |  | 2.75 |  |  | 63.25 |",
+          "qty": 14.0,
+          "rate": 2.75,
+          "amount": 63.25
+        },
+        {
+          "invoice_number": "INV_invoice-2-1",
+          "description": "| 15 |  |  | 13-200 - Storage Tanks (25) |  |  | 99.25 |  |  | 2481.25 |",
+          "qty": 15.0,
+          "rate": 99.25,
+          "amount": 2481.25
+        }
+      ],
+      "totals": [],
+      "verification": {
+        "invoice_number": "INV_invoice-2-1",
+        "items_sum": 19731.55,
+        "parsed_subtotal": 19731.55,
+        "parsed_tax": NaN,
+        "parsed_total": 19731.55,
+        "difference_items_vs_subtotal": 0.0,
+        "mismatch_flag": false
+      }
+    },
+    "_1213": {
+      "items": [
+        {
+          "invoice_number": "_1213",
+          "description": "Glossostigma",
+          "qty": 3.0,
+          "rate": 9.9,
+          "amount": 29.7
+        },
+        {
+          "invoice_number": "_1213",
+          "description": "Bayberry",
+          "qty": 222.0,
+          "rate": 5.44,
+          "amount": 1207.68
+        },
+        {
+          "invoice_number": "_1213",
+          "description": "Waxflower",
+          "qty": 34.0,
+          "rate": 1.67,
+          "amount": 56.78
+        },
+        {
+          "invoice_number": "_1213",
+          "description": "Carolina Geranium",
+          "qty": 45.0,
+          "rate": 4.17,
+          "amount": 187.65
+        },
+        {
+          "invoice_number": "_1213",
+          "description": "Smooth Solomon's",
+          "qty": 3.0,
+          "rate": 4.97,
+          "amount": 14.91
+        },
+        {
+          "invoice_number": "_1213",
+          "description": "El Yunque Colorado",
+          "qty": 23.0,
+          "rate": 9.97,
+          "amount": 229.31
+        },
+        {
+          "invoice_number": "_1213",
+          "description": "Alaskan Douglasia",
+          "qty": 122.0,
+          "rate": 4.36,
+          "amount": 531.92
+        },
+        {
+          "invoice_number": "_1213",
+          "description": "Deer Sedge",
+          "qty": 23.0,
+          "rate": 3.82,
+          "amount": 87.86
+        },
+        {
+          "invoice_number": "_1213",
+          "description": "Indian Tobacco",
+          "qty": 2.0,
+          "rate": 7.25,
+          "amount": 14.5
+        }
+      ],
+      "totals": [
+        {
+          "invoice_number": "_1213",
+          "type": "tax",
+          "raw": "Sales Tax | 255.39",
+          "parsed_amount": 255.39
+        }
+      ],
+      "verification": {
+        "invoice_number": "_1213",
+        "items_sum": 2360.3100000000004,
+        "parsed_subtotal": 2360.3100000000004,
+        "parsed_tax": 255.39,
+        "parsed_total": 2615.7000000000003,
+        "difference_items_vs_subtotal": 0.0,
+        "mismatch_flag": false
+      }
+    },
+    "customer_no_invoice_period_date": {
+      "items": [
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "123100401 | 12345 | 01.02.2024 - 29.02.2024 | 1. März 2024",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 2024.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "Basic Fee wmView | 130,00 € | 1 | 130,00 €",
+          "qty": 13000.0,
+          "rate": 1.0,
+          "amount": 13000.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "Basis fee for additional user accounts | 10,00 € | 0 | 0,00 €",
+          "qty": 1000.0,
+          "rate": 0.0,
+          "amount": 0.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "Basic Fee wmPos | 50,00 € | 0 | 0,00 €",
+          "qty": 5000.0,
+          "rate": 0.0,
+          "amount": 0.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "Basic Fee wmGuide | 1.000,00 € | 0 | 0,00 €",
+          "qty": 1.0,
+          "rate": 0.0,
+          "amount": 0.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "Change of user accounts | 10,00 € | 0 | 0,00 €",
+          "qty": 1000.0,
+          "rate": 0.0,
+          "amount": 0.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "Transaction Fee T1 | 0,58 € | 14 | 8,12 €",
+          "qty": 58.0,
+          "rate": 14.0,
+          "amount": 812.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "Transaction Fee T2 | 0,70 € | 0 | 0,00 €",
+          "qty": 70.0,
+          "rate": 0.0,
+          "amount": 0.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "Transaction Fee T3 | 1,50 € | 162 | 243,00 €",
+          "qty": 150.0,
+          "rate": 162.0,
+          "amount": 24300.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "Transaction Fee T4 | 0,50 € | 0 | 0,00 €",
+          "qty": 50.0,
+          "rate": 0.0,
+          "amount": 0.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "Transaction Fee T5 | 0,80 € | 0 | 0,00 €",
+          "qty": 80.0,
+          "rate": 0.0,
+          "amount": 0.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "Transaction Fee T6 | 1,80 € | 0 | 0,00 €",
+          "qty": 180.0,
+          "rate": 0.0,
+          "amount": 0.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "Transaction Fee G1 | 0,30 € | 0 | 0,00 €",
+          "qty": 30.0,
+          "rate": 0.0,
+          "amount": 0.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "Transaction Fee G2 | 0,30 € | 0 | 0,00 €",
+          "qty": 30.0,
+          "rate": 0.0,
+          "amount": 0.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "Transaction Fee G3 | 0,40 € | 0 | 0,00 €",
+          "qty": 40.0,
+          "rate": 0.0,
+          "amount": 0.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "Transaction Fee G4 | 0,40 € | 0 | 0,00 €",
+          "qty": 40.0,
+          "rate": 0.0,
+          "amount": 0.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "Transaction Fee G5 | 0,30 € | 0 | 0,00 €",
+          "qty": 30.0,
+          "rate": 0.0,
+          "amount": 0.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "Transaction Fee G6 | 0,30 € | 0 | 0,00 €",
+          "qty": 30.0,
+          "rate": 0.0,
+          "amount": 0.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "Amount in Euro: | 0,58 | 0,70 | 1,50 | 0,50 | 0,80 | 1,80 | 0,30 | 0,30 | 0,40 | 0,40 | 0,30 | 0,30",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 30.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "user-account-2 | 4 | 0 | 63 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 96,82 €",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 9682.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "T1: | T2: | T3: | T4: | T5: | T6:",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 6.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "AZR/31/27439",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 27439.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "CCL/3715",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 3715.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "CRS/28432",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 28432.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "Cs/52113",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 52113.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "GS 32090",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 32090.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "Kpi/22695",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 22695.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "PG 7772",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 7772.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "Rjn/11138",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 11138.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "SF-M 596/99-08",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 8.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "Ttrb/17885",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 17885.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "WPN:24791",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 24791.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "Wwt/15658",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 15658.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "0 | 0 | 12 | 0 | 0 | 0 | 18,00 €",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 1800.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "0 | 0 | 4 | 0 | 0 | 0 | 6,00 €",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 600.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "5 | 0 | 36 | 0 | 0 | 0 | 56,90 €",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 5690.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "0 | 0 | 19 | 0 | 0 | 0 | 28,50 €",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 2850.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "1 | 0 | 7 | 0 | 0 | 0 | 11,08 €",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 1108.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "2 | 0 | 6 | 0 | 0 | 0 | 10,16 €",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 1016.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "0 | 0 | 11 | 0 | 0 | 0 | 16,50 €",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 1650.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "0 | 0 | 15 | 0 | 0 | 0 | 22,50 €",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 2250.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "0 | 0 | 5 | 0 | 0 | 0 | 7,50 €",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 750.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "1 | 0 | 23 | 0 | 0 | 0 | 35,08 €",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 3508.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "1 | 0 | 4 | 0 | 0 | 0 | 6,58 €",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 658.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "0 | 0 | 11 | 0 | 0 | 0 | 16,50 €",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 1650.0
+        },
+        {
+          "invoice_number": "customer_no_invoice_period_date",
+          "description": "0,58 | 0,70 | 1,50 | 0,50 | 0,80 | 1,80",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 180.0
+        }
+      ],
+      "totals": [],
+      "verification": {
+        "invoice_number": "customer_no_invoice_period_date",
+        "items_sum": 317300.0,
+        "parsed_subtotal": 317300.0,
+        "parsed_tax": NaN,
+        "parsed_total": 317300.0,
+        "difference_items_vs_subtotal": 0.0,
+        "mismatch_flag": false
+      }
+    },
+    "np#00183": {
+      "items": [
+        {
+          "invoice_number": "np#00183",
+          "description": "1. Skid-Steer € 1000",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 1000.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "822-79-9581 5 pcs. € 200",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 200.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "2. Backhoe I € 1000",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 1000.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "598-31-5899 5 pcs. € 500",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 500.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "3. Dump Truck I € 3000",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 3000.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "745-73-2437 2 pcs. € 1500",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 1500.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "4. Trencher I € 1200",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 1200.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "813-54-6535 4 pcs. € 300",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 300.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "5. Grader € 2000",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 2000.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "113-98-4866 10 pcs. € 200",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 200.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "6. Dump Truck II € 10000",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 10000.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "396-33-2044 5 pcs. € 2000",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 2000.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "7. Bulldozer I € 3750",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 3750.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "511-90-9749 5 pcs. € 750",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 750.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "8. Scraper I € 1000",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 1000.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "307-74-6395 5 pcs. € 200",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 200.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "9. Compactor I € 1000",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 1000.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "411-71-1752 5 pcs. € 200",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 200.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "10. Scraper II € 2500",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 2500.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "595-54-0567 10 pcs. € 250",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 250.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "11. Crawler I € 1400",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 1400.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "573-48-1966 4 pcs. € 350",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 350.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "12. Compactor II € 600",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 600.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "133-65-5977 2 pcs. € 300",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 300.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "13. Crawler II € 1800",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 1800.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "264-31-6025 4 pcs. € 450",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 450.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "14. Backhoe II € 2400",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 2400.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "641-82-4321 4 pcs. € 600",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 600.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "15. Dragline € 3000",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 3000.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "280-60-7659 6 pcs. € 500",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 500.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "16. Trencher II € 3000",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 3000.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "398-88-4914 5 pcs. € 600",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 600.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "17. Backhoe III € 4000",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 4000.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "777-92-0504 5 pcs. € 800",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 800.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "18. Bulldozer II € 10000",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 10000.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "118-37-9226 10 pcs. € 1000",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 1000.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "19. Crawler III € 2600",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 2600.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "462-89-9620 4 pcs. € 650",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 650.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "20. Bulldozer III € 2500",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 2500.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "134-85-7410 2 pcs. € 1250",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 1250.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "21. Trencher III € 2700",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 2700.0
+        },
+        {
+          "invoice_number": "np#00183",
+          "description": "317-76-2964 3 pcs. € 900",
+          "qty": NaN,
+          "rate": NaN,
+          "amount": 900.0
+        }
+      ],
+      "totals": [],
+      "verification": {
+        "invoice_number": "np#00183",
+        "items_sum": 73950.0,
+        "parsed_subtotal": 73950.0,
+        "parsed_tax": NaN,
+        "parsed_total": 73950.0,
+        "difference_items_vs_subtotal": 0.0,
+        "mismatch_flag": false
+      }
+    }
+  }
+}
