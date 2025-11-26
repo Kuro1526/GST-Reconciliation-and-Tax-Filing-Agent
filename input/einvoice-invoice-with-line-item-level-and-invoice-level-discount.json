@@ -1,0 +1,110 @@
+{
+  "Version": "1.1",
+  "TranDtls": {
+    "TaxSch": "GST",
+    "SupTyp": "B2B",
+    "RegRev": "Y",
+    "IgstOnIntra": "N"
+  },
+  "DocDtls": {
+    "Typ": "INV",
+    "No": "INV-26",
+    "Dt": "01/04/2022"
+  },
+  "SellerDtls": {
+    "Gstin": "29AADCG4992P1ZP",
+    "LglNm": "Dash",
+    "TrdNm": "Dash",
+    "Addr1": "123, ABC Road",
+    "Loc": "Bangalore",
+    "Pin": 560003,
+    "Stcd": "29"
+  },
+  "BuyerDtls": {
+    "Gstin": "29AEEPL0813J1ZK",
+    "LglNm": "S B S COMPANY",
+    "TrdNm": "S B S COMPANY",
+    "Pos": "29",
+    "Addr1": "NO 18 S GOLLAHALLI",
+    "Addr2": "SULIVARA CHIKKANAHALLI POST",
+    "Loc": "BANGALORE RURAL",
+    "Pin": 562130,
+    "Stcd": "29"
+  },
+  "ItemList": [
+    {
+      "ItemNo": 0,
+      "SlNo": "1",
+      "IsServc": "N",
+      "PrdDesc": "11 00 R20 S3C8 PL R16 TYRE",
+      "HsnCd": "40112010",
+      "Qty": 1,
+      "FreeQty": 0,
+      "Unit": "NOS",
+      "UnitPrice": 4289.06,
+      "TotAmt": 4289.06,
+      "Discount": 5,
+      "PreTaxVal": 0,
+      "AssAmt": 4284.06,
+      "GstRt": 28,
+      "IgstAmt": 0,
+      "CgstAmt": 600.47,
+      "SgstAmt": 600.47,
+      "CesRt": 0,
+      "CesAmt": 0,
+      "CesNonAdvlAmt": 0,
+      "StateCesRt": 0,
+      "StateCesAmt": 0,
+      "OthChrg": 0,
+      "TotItemVal": 5485
+    },
+    {
+      "ItemNo": 0,
+      "SlNo": "2",
+      "IsServc": "N",
+      "PrdDesc": "11 00 R20 TUBE 28",
+      "HsnCd": "40131020",
+      "Qty": 1,
+      "FreeQty": 0,
+      "Unit": "NOS",
+      "UnitPrice": 312.5,
+      "TotAmt": 312.5,
+      "Discount": 0,
+      "PreTaxVal": 0,
+      "AssAmt": 312.5,
+      "GstRt": 28,
+      "IgstAmt": 0,
+      "CgstAmt": 43.75,
+      "SgstAmt": 43.75,
+      "CesRt": 0,
+      "CesAmt": 0,
+      "CesNonAdvlAmt": 0,
+      "StateCesRt": 0,
+      "StateCesAmt": 0,
+      "OthChrg": 0,
+      "TotItemVal": 400
+    }
+  ],
+  "ValDtls": {
+    "AssVal": 4596.56,
+    "CgstVal": 644.22,
+    "SgstVal": 644.22,
+    "IgstVal": 0,
+    "CesVal": 0,
+    "StCesVal": 0,
+    "Discount": 10,
+    "OthChrg": 0,
+    "RndOffAmt": 0,
+    "TotInvVal": 5875
+  },
+  "ExpDtls": {
+    "ExpDuty": 0
+  },
+  "EwbDtls": {
+    "TransMode": "1",
+    "Distance": 26,
+    "TransDocDt": "01/04/2022",
+    "VehNo": "KA09C9704",
+    "VehType": "R"
+  }
+}

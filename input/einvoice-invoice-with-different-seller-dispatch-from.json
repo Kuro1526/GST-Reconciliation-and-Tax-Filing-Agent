@@ -1,0 +1,105 @@
+{
+  "Version": "1.1",
+  "TranDtls": {
+    "TaxSch": "GST",
+    "SupTyp": "B2B",
+    "RegRev": "N",
+    "IgstOnIntra": "N"
+  },
+  "DocDtls": {
+    "Typ": "INV",
+    "No": "INMF-000017",
+    "Dt": "05/07/2021"
+  },
+  "SellerDtls": {
+    "Gstin": "29AADCG4992P1ZP",
+    "LglNm": "Srivatsa Infotainment Systems India",
+    "Addr1": "No 126, KHB Colony, 05th Block",
+    "Addr2": "Koramangala",
+    "Loc": "Bangalore",
+    "Pin": 560082,
+    "Stcd": "29"
+  },
+  "BuyerDtls": {
+    "Gstin": "27AAACO1598A1ZN",
+    "LglNm": "Google India Pvt. Ltd.",
+    "Pos": "27",
+    "Addr1": "Link Rd, Yogi Nagar, MHB Colony, Vazira Naka, Gorai Rd",
+    "Addr2": "Borivali",
+    "Loc": "Mumbai",
+    "Pin": 400020,
+    "Stcd": "27"
+  },
+  "DispDtls": {
+    "Nm": "Padmini Entertainment Services",
+    "Addr1": "Alagappa Nagar, NRE Avadi Rd, Kilpauk Aspiran Garden Colony",
+    "Addr2": "Kilpauk",
+    "Loc": "Chennai",
+    "Pin": 600025,
+    "Stcd": "33"
+  },
+  "ItemList": [
+    {
+      "ItemNo": 0,
+      "SlNo": "1",
+      "IsServc": "Y",
+      "PrdDesc": "Service charges",
+      "HsnCd": "998312",
+      "Qty": 1,
+      "FreeQty": 0,
+      "Unit": "OTH",
+      "UnitPrice": 1000000,
+      "TotAmt": 1000000,
+      "Discount": 0,
+      "PreTaxVal": 0,
+      "AssAmt": 1000000,
+      "GstRt": 18,
+      "IgstAmt": 180000,
+      "CgstAmt": 0,
+      "SgstAmt": 0,
+      "CesAmt": 0,
+      "CesNonAdvlAmt": 0,
+      "StateCesAmt": 0,
+      "StateCesNonAdvlAmt": 0,
+      "OthChrg": 0,
+      "TotItemVal": 1180000,
+      "BchDtls": {
+        "Nm": "Batch001"
+      },
+      "AttribDtls": [
+        {}
+      ]
+    }
+  ],
+  "ValDtls": {
+    "AssVal": 1000000,
+    "CgstVal": 0,
+    "SgstVal": 0,
+    "IgstVal": 180000,
+    "CesVal": 0,
+    "StCesVal": 0,
+    "Discount": 0,
+    "TotInvVal": 1180000
+  },
+  "PayDtls": {
+    "CrDay": 0,
+    "PaidAmt": 0,
+    "PaymtDue": 0
+  },
+  "RefDtls": {
+    "DocPerdDtls": {
+      "InvStDt": "28/06/2021",
+      "InvEndDt": "28/06/2021"
+    },
+    "PrecDocDtls": [
+      {
+        "InvNo": "INMF-000011",
+        "InvDt": "28/06/2021"
+      }
+    ],
+    "ContrDtls": [
+      {}
+    ]
+  },
+  "ExpDtls": {}
+}

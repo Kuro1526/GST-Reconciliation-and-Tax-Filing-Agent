@@ -1,0 +1,92 @@
+{
+  "Version": "1.1",
+  "TranDtls": {
+    "TaxSch": "GST",
+    "SupTyp": "B2B",
+    "RegRev": "N",
+    "IgstOnIntra": "N"
+  },
+  "DocDtls": {
+    "Typ": "DBN",
+    "No": "DRF/070/21-25",
+    "Dt": "12/04/2022"
+  },
+  "SellerDtls": {
+    "Gstin": "29AAFCC9980M1ZR",
+    "LglNm": "Cloudzen Software Labs Pvt Ltd",
+    "Addr1": "# 299-300, BOMMASANDRA,JIGANI LINK ROAD, JIGANI ",
+    "Addr2": "BANGALORE",
+    "Loc": "BANGALORE",
+    "Pin": 562106,
+    "Stcd": "29"
+  },
+  "BuyerDtls": {
+    "Gstin": "33AABCR0347P1ZA",
+    "LglNm": "Redington (India) Limited",
+    "Pos": "33",
+    "Addr1": "'Redington House'' Centre Point",
+    "Addr2": "Plot No-8 & 11 (SP), Thiru.Vi.Ka, Industrial Estate,",
+    "Loc": "Chennai",
+    "Pin": 600032,
+    "Stcd": "33"
+  },
+  "ShipDtls": {
+    "Gstin": "24AADCG4992P1ZZ",
+    "LglNm": "Ambani Fones",
+    "Addr1": "G4,Kings Plaza",
+    "Addr2": "Astron Chowk",
+    "Loc": "Rajkot",
+    "Pin": 360001,
+    "Stcd": "24"
+  },
+  "ItemList": [
+    {
+      "ItemNo": 0,
+      "SlNo": "1",
+      "IsServc": "N",
+      "PrdDesc": "SNAP FIT CABLE PROTECTOR TYPE B, Code 125-000343 Black color. VULCASCOT make. X= 1.5mtrs, stock code - 26400133",
+      "HsnCd": "94032090",
+      "Qty": 1.0,
+      "Unit": "OTH",
+      "UnitPrice": 3200.0,
+      "TotAmt": 3200.0,
+      "Discount": 100.0,
+      "AssAmt": 3100.0,
+      "GstRt": 18.0,
+      "IgstAmt": 558.0,
+      "CgstAmt": 0,
+      "SgstAmt": 0,
+      "CesRt": 0,
+      "CesAmt": 0,
+      "CesNonAdvlAmt": 0,
+      "StateCesRt": 0,
+      "StateCesAmt": 0,
+      "StateCesNonAdvlAmt": 0,
+      "OthChrg": 400.0,
+      "TotItemVal": 4058.0
+    }
+  ],
+  "ValDtls": {
+    "AssVal": 3100.0,
+    "CgstVal": 0,
+    "SgstVal": 0,
+    "IgstVal": 558.0,
+    "CesVal": 0,
+    "StCesVal": 0,
+    "Discount": 0,
+    "OthChrg": 0,
+    "RndOffAmt": 0,
+    "TotInvVal": 4058.0
+  },
+  "TCSChrg": [
+    {
+      "TCSChrg": 0,
+      "TCSChrgLed": "TCS Ledger (dummy)"
+    }
+  ],
+  "ValDtlsFromUser": {
+    "OthChrg": 0,
+    "Discount": 0,
+    "TotInvValFc": null
+  }
+}

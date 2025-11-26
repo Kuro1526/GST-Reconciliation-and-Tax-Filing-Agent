@@ -1,0 +1,87 @@
+{
+  "Version": "1.1",
+  "TranDtls": {
+    "TaxSch": "GST",
+    "SupTyp": "SEZWP",
+    "RegRev": "N",
+    "IgstOnIntra": "N"
+  },
+  "DocDtls": {
+    "Typ": "INV",
+    "No": "23-24/DEM/7818",
+    "Dt": "03/09/2024"
+  },
+  "SellerDtls": {
+    "Gstin": "29AAFCC9980M1ZR",
+    "LglNm": "GSTZEN DEMO PRIVATE LIMITED",
+    "Addr1": "Manyata Tech Park",
+    "Loc": "BANGALORE",
+    "Pin": 560077,
+    "Stcd": "29"
+  },
+  "BuyerDtls": {
+    "Gstin": "33AAACH1925Q2ZG",
+    "LglNm": "Quality Products Private Limited",
+    "Pos": "33",
+    "Addr1": "133, Mahatma Gandhi Road",
+    "Loc": "Tamil Nadu",
+    "Pin": 600001,
+    "Stcd": "33"
+  },
+  "DispDtls": {
+    "Nm": "Maharashtra Storage",
+    "Addr1": "133, Mahatma Gandhi Road",
+    "Loc": "Bhiwandi",
+    "Pin": 400001,
+    "Stcd": "27"
+  },
+  "ShipDtls": {
+    "Gstin": "URP",
+    "LglNm": "Quality Products Construction Site",
+    "Addr1": "Anna Salai",
+    "Loc": "Chennai",
+    "Pin": 600001,
+    "Stcd": "33"
+  },
+  "ItemList": [
+    {
+      "ItemNo": 0,
+      "SlNo": "1",
+      "IsServc": "N",
+      "PrdDesc": "Computer Hardware - Keyboard and Mouse",
+      "HsnCd": "32050000",
+      "Qty": 25,
+      "FreeQty": 0,
+      "Unit": "PCS",
+      "UnitPrice": 200,
+      "TotAmt": 5000,
+      "Discount": 0,
+      "PreTaxVal": 0,
+      "AssAmt": 5000,
+      "GstRt": 18,
+      "IgstAmt": 900,
+      "CgstAmt": 0,
+      "SgstAmt": 0,
+      "CesRt": 0,
+      "CesAmt": 0,
+      "CesNonAdvlAmt": 0,
+      "StateCesRt": 0,
+      "StateCesAmt": 0,
+      "StateCesNonAdvlAmt": 0,
+      "OthChrg": 0,
+      "TotItemVal": 5900
+    }
+  ],
+  "ValDtls": {
+    "AssVal": 5000,
+    "CgstVal": 0,
+    "SgstVal": 0,
+    "IgstVal": 900,
+    "CesVal": 0,
+    "StCesVal": 0,
+    "Discount": 0,
+    "OthChrg": 0,
+    "RndOffAmt": 0,
+    "TotInvVal": 5900
+  }
+}

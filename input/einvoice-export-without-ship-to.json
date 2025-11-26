@@ -1,0 +1,90 @@
+{
+  "Version": "1.1",
+  "TranDtls": {
+    "TaxSch": "GST",
+    "SupTyp": "EXPWP",
+    "RegRev": "N",
+    "IgstOnIntra": "N"
+  },
+  "DocDtls": {
+    "Typ": "INV",
+    "No": "GZEN/131/20-21",
+    "Dt": "27/02/2021"
+  },
+  "SellerDtls": {
+    "Gstin": "29AAFCC9980M1ZR",
+    "LglNm": "CloudZen Software Labs Pvt. Ltd.",
+    "TrdNm": "CloudZen Software Labs Pvt. Ltd.",
+    "Addr1": "114, Bhuvanagiri Main Road Balaji Layout, Subaiya Reddy Layout",
+    "Addr2": "Banaswadi, Bengaluru",
+    "Loc": "Karnataka",
+    "Pin": 560018,
+    "Stcd": "29",
+    "Ph": "5487632145",
+    "Em": "kiran.n@vnv.ca"
+  },
+  "BuyerDtls": {
+    "Gstin": "URP",
+    "LglNm": "Trump & Co",
+    "TrdNm": "Trump & Co",
+    "Pos": "96",
+    "Addr1": "New Yarak USA",
+    "Loc": "Other Countries",
+    "Pin": 999999,
+    "Stcd": "96"
+  },
+  "ItemList": [
+    {
+      "ItemNo": 0,
+      "SlNo": "1",
+      "IsServc": "N",
+      "PrdDesc": "01030477  LSFO",
+      "HsnCd": "27101950",
+      "Qty": 109.0,
+      "FreeQty": 1,
+      "Unit": "NOS",
+      "UnitPrice": 590.0,
+      "TotAmt": 64310.0,
+      "Discount": 0.0,
+      "PreTaxVal": 64310.0,
+      "AssAmt": 64310.0,
+      "GstRt": 18.0,
+      "IgstAmt": 11575.8,
+      "CgstAmt": 0.0,
+      "SgstAmt": 0.0,
+      "CesRt": 0.0,
+      "CesAmt": 0.0,
+      "CesNonAdvlAmt": 0.0,
+      "StateCesRt": 0.0,
+      "StateCesAmt": 0.0,
+      "StateCesNonAdvlAmt": 0.0,
+      "OthChrg": 0.0,
+      "TotItemVal": 75885.8,
+      "BchDtls": {
+        "Nm": "Primary Batch"
+      }
+    }
+  ],
+  "ValDtls": {
+    "AssVal": 64310.0,
+    "CgstVal": 0,
+    "SgstVal": 0,
+    "IgstVal": 11575.8,
+    "CesVal": 0,
+    "StCesVal": 0,
+    "Discount": 0,
+    "OthChrg": 0,
+    "RndOffAmt": 0,
+    "TotInvVal": 75885.8
+  },
+  "PayDtls": {
+    "CrDay": 0
+  },
+  "RefDtls": {
+    "InvRm": "Remarks"
+  },
+  "TalUN": "a",
+  "TalSlNo": "785555946",
+  "VchName": "Sales New",
+  "Department": "CloudZen Software Labs Pvt. Ltd."
+}

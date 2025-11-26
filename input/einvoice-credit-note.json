@@ -1,0 +1,87 @@
+{
+  "Version": "1.1",
+  "TranDtls": {
+    "TaxSch": "GST",
+    "SupTyp": "B2B",
+    "RegRev": "N",
+    "IgstOnIntra": "N"
+  },
+  "DocDtls": {
+    "Typ": "CRN",
+    "No": "TEST/13",
+    "Dt": "02/12/2021"
+  },
+  "SellerDtls": {
+    "Gstin": "29AAFCC9980M1ZR",
+    "LglNm": "HINDUSTAN ORGANIC CHEMICALS LTD",
+    "TrdNm": "HINDUSTAN ORGANIC CHEMICALS LTD",
+    "Addr1": "AMBALAMUGAL PO, ERNAKULAM DIST, KERALA, INDIA",
+    "Loc": "Karnataka",
+    "Pin": 560018,
+    "Stcd": "29",
+    "Ph": "919400408533",
+    "Em": "po.luise@hoclindia.com"
+  },
+  "BuyerDtls": {
+    "Gstin": "27AAEFP4570C1ZE",
+    "LglNm": "POOJA PETRO CHEMICALS",
+    "TrdNm": "POOJA PETRO CHEMICALS",
+    "Pos": "27",
+    "Addr1": "MUMBAI, 349/353,SAMUEL STREET,INDU CHAMBER, 4 TH FLOOR,OFFICE NO-25, VADAGADI, MUMBAI, MAHARASHTRA",
+    "Loc": "Maharashtra",
+    "Pin": 400003,
+    "Em": "poojapetro@gmail.com",
+    "Stcd": "27"
+  },
+  "ItemList": [
+    {
+      "ItemNo": 0,
+      "SlNo": "1",
+      "IsServc": "N",
+      "PrdDesc": "415005-Trade Discount  Phenol - CN",
+      "HsnCd": "29071110",
+      "Qty": 1.0,
+      "FreeQty": 1,
+      "Unit": "OTH",
+      "UnitPrice": 0.0,
+      "TotAmt": 1.0,
+      "Discount": 0.0,
+      "PreTaxVal": 1.0,
+      "AssAmt": 1.0,
+      "GstRt": 18.0,
+      "IgstAmt": 0.18,
+      "CgstAmt": 0.0,
+      "SgstAmt": 0.0,
+      "CesRt": 0.0,
+      "CesAmt": 0.0,
+      "CesNonAdvlAmt": 0.0,
+      "StateCesRt": 0.0,
+      "StateCesAmt": 0.0,
+      "StateCesNonAdvlAmt": 0.0,
+      "OthChrg": 0.0,
+      "TotItemVal": 1.18
+    }
+  ],
+  "ValDtls": {
+    "AssVal": 1.0,
+    "CgstVal": 0,
+    "SgstVal": 0,
+    "IgstVal": 0.18,
+    "CesVal": 0,
+    "StCesVal": 0,
+    "Discount": 0,
+    "OthChrg": 0,
+    "RndOffAmt": 0,
+    "TotInvVal": 1.18
+  },
+  "PayDtls": {
+    "CrDay": 0
+  },
+  "RefDtls": {
+    "InvRm": "Remarks"
+  },
+  "TalUN": "administrator",
+  "TalSlNo": "0",
+  "VchName": "Credit Note",
+  "Department": "HINDUSTAN ORGANIC CHEMICALS LTD"
+}
